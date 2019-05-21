@@ -1,0 +1,8 @@
+0. git clon https://github.com/gevorgnazaryan/test.git 
+1. cheack changes %
+2. git status -su
+3. git add (%)
+4. git commit -m "add comments"
+5. git pull
+6. git push
+
